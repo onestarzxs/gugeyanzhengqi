@@ -1,0 +1,6 @@
+D:\Download\MFAScreenLock-master\MFAScreenLock\ImageControl\bin\Debug\ImageControl.dll
+D:\Download\MFAScreenLock-master\MFAScreenLock\ImageControl\bin\Debug\ImageControl.pdb
+D:\Download\MFAScreenLock-master\MFAScreenLock\ImageControl\obj\Debug\ImageControl.csproj.AssemblyReference.cache
+D:\Download\MFAScreenLock-master\MFAScreenLock\ImageControl\obj\Debug\ImageControl.csproj.CoreCompileInputs.cache
+D:\Download\MFAScreenLock-master\MFAScreenLock\ImageControl\obj\Debug\ImageControl.dll
+D:\Download\MFAScreenLock-master\MFAScreenLock\ImageControl\obj\Debug\ImageControl.pdb
