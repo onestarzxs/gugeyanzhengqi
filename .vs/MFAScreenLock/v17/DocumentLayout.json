@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|solutionrelative:mfascreenlockapp\\formqr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|d:\\download\\mfascreenlock-master\\mfascreenlock\\mfascreenlockapp\\formqr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|D:\\Download\\MFAScreenLock-master\\MFAScreenLock\\mfascreenlockapp\\formqr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|solutionrelative:mfascreenlockapp\\formqr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|d:\\download\\mfascreenlock-master\\mfascreenlock\\mfascreenlockapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|D:\\Download\\MFAScreenLock-master\\MFAScreenLock\\mfascreenlockapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|solutionrelative:mfascreenlockapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,11 +23,11 @@
       "RelativeMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|solutionrelative:mfascreenlockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|d:\\download\\mfascreenlock-master\\mfascreenlock\\mfascreenlockapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|D:\\Download\\MFAScreenLock-master\\MFAScreenLock\\mfascreenlockapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|solutionrelative:mfascreenlockapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|d:\\download\\mfascreenlock-master\\mfascreenlock\\mfascreenlockapp\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|D:\\Download\\MFAScreenLock-master\\MFAScreenLock\\mfascreenlockapp\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E4F3633-130B-4CEB-B83F-77D21148E69E}|MFAScreenLockApp\\MFAScreenLockApp.csproj|solutionrelative:mfascreenlockapp\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -59,8 +59,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T13:32:27.069Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "MFAScreenLockApp\\FormUser.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAhwFgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:07:07.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T14:07:07.082Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "MFAScreenLockApp\\Form1.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAIwB4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:04:41.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T14:04:41.279Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "ToolTip": "D:\\Download\\MFAScreenLock-master\\MFAScreenLock\\MFAScreenLockApp\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "MFAScreenLockApp\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:04:38.155Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-12-18T14:04:38.155Z"
             },
             {
               "$type": "Document",
@@ -116,7 +112,7 @@
               "RelativeDocumentMoniker": "MFAScreenLockApp\\FormQR.cs",
               "ToolTip": "D:\\Download\\MFAScreenLock-master\\MFAScreenLock\\MFAScreenLockApp\\FormQR.cs",
               "RelativeToolTip": "MFAScreenLockApp\\FormQR.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAD4v3wAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAjwEYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T13:45:58.358Z",
               "EditorCaption": ""
@@ -129,7 +125,7 @@
               "RelativeDocumentMoniker": "MFAScreenLockApp\\FormQR.Designer.cs",
               "ToolTip": "D:\\Download\\MFAScreenLock-master\\MFAScreenLock\\MFAScreenLockApp\\FormQR.Designer.cs",
               "RelativeToolTip": "MFAScreenLockApp\\FormQR.Designer.cs",
-              "ViewState": "AgIAANgAAAAAAAAAAAAlwN0AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAANoAAAAAAAAAAAAlwN8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T13:35:29.131Z",
               "EditorCaption": ""

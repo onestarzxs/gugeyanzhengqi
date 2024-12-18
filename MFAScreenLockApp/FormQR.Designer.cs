@@ -37,10 +37,10 @@
             this.lbl_EntryKey = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.lbl_codeisok = new System.Windows.Forms.Label();
             this.txt_code = new System.Windows.Forms.TextBox();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
-            this.lbl_codeisok = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
@@ -123,22 +123,34 @@
             // 
             // textBox1
             // 
-            this.textBox1.Font = new System.Drawing.Font("Consolas", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Font = new System.Drawing.Font("Consolas", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(13, 25);
             this.textBox1.MaxLength = 20;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(197, 39);
+            this.textBox1.Size = new System.Drawing.Size(144, 32);
             this.textBox1.TabIndex = 7;
+            this.textBox1.Text = "随机字符";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // lbl_codeisok
+            // 
+            this.lbl_codeisok.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.lbl_codeisok.Location = new System.Drawing.Point(231, 67);
+            this.lbl_codeisok.Name = "lbl_codeisok";
+            this.lbl_codeisok.Size = new System.Drawing.Size(111, 23);
+            this.lbl_codeisok.TabIndex = 6;
+            this.lbl_codeisok.Text = "6 位数字";
+            this.lbl_codeisok.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // txt_code
             // 
-            this.txt_code.Font = new System.Drawing.Font("Consolas", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_code.Location = new System.Drawing.Point(232, 25);
-            this.txt_code.MaxLength = 6;
+            this.txt_code.Font = new System.Drawing.Font("Consolas", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_code.Location = new System.Drawing.Point(177, 25);
+            this.txt_code.MaxLength = 20;
             this.txt_code.Name = "txt_code";
-            this.txt_code.Size = new System.Drawing.Size(110, 39);
+            this.txt_code.Size = new System.Drawing.Size(165, 32);
             this.txt_code.TabIndex = 4;
+            this.txt_code.Text = "标识账户名";
             this.txt_code.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.txt_code.TextChanged += new System.EventHandler(this.txt_code_TextChanged);
             // 
@@ -166,16 +178,6 @@
             this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // lbl_codeisok
-            // 
-            this.lbl_codeisok.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lbl_codeisok.Location = new System.Drawing.Point(231, 67);
-            this.lbl_codeisok.Name = "lbl_codeisok";
-            this.lbl_codeisok.Size = new System.Drawing.Size(111, 23);
-            this.lbl_codeisok.TabIndex = 6;
-            this.lbl_codeisok.Text = "6 位数字";
-            this.lbl_codeisok.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
